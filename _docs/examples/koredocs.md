@@ -3,21 +3,17 @@ title: Kore Docs Item
 permalink: /docs/koredocs/
 ---
 
+
+
+# A collapsible section with markdown
 <details>
+  <summary>Click to expand!</summary>
   
-<summary>
-
-Click to expand! update
-
-</summary>
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
