@@ -16,7 +16,7 @@ git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 # Plugins (previously gems:)
 plugins:
