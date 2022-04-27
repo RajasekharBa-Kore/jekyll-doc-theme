@@ -2,9 +2,14 @@
 title: Kore Docs Item
 permalink: /docs/koredocs/
 ---
+
 <details>
   
-<summary>Click to expand! update</summary>
+<summary>
+
+Click to expand! update
+
+</summary>
 
 # H1
 ## H2
