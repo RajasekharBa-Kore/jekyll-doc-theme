@@ -4,6 +4,11 @@ permalink: /docs/koredocs/
 ---
 
 <details>
+    <summary>{{ summary | markdownify | remove: '<p>' | remove: '</p>' }}</summary>
+    {{ details | markdownify }}
+</details>
+
+<details>
   
 <summary>
 
